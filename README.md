@@ -9,7 +9,7 @@
 - [VUE](https://cn.vuejs.org/)
 - [WebGL](https://www.khronos.org/webgl/)
 - [Docker](https://www.docker.com/)
-- [kubernetes](https://kubernetes.io/)
+- [Kubernetes](https://kubernetes.io/)
 - [MapBox](https://www.mapbox.com/)
 - [Cesium](https://cesium.com/)
 
