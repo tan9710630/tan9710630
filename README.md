@@ -5,7 +5,7 @@
 我的主要技术方向：
 - [UnrealEngine](https://www.unrealengine.com/zh-CN)
 - [QT](https://www.qt.io/)
-- [SpringBoot](https://spring.io/projects/spring-boot/)
+- [Spring](https://spring.io/projects/spring-boot/)
 - [VUE](https://cn.vuejs.org/)
 - [WebGL](https://www.khronos.org/webgl/)
 - [Docker](https://www.docker.com/)
